@@ -7,4 +7,4 @@ class (unittest.TestCase): # Add your class name here.
         # Add the test cases here.
 
 if __name__ == '__main__':
-    # Make sure you make the call to run the test.
+    # Make sure you make the call needed to run the unit test(s).
