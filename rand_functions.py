@@ -1,4 +1,4 @@
-def fizzBuzz(n):
+def foo_bar(n):
 	if n % 15 == 0:
 		return 'FizzBuzz'
 	elif n % 3 == 0:
@@ -10,6 +10,6 @@ def fizzBuzz(n):
 
 def get_chatbot_response(message):
     if message[:2] == '!!':
-        return 'Woosh'
+        return 'WooHoo!'
     else:
-        return 'Not a command'
+        return 'Invalid command'
