@@ -14,6 +14,6 @@ Write down five expected input-output scenarios, like this:
 
 ## Are you finished?
 
-Feel free to peruse these following articles!
+Feel free to browse these following articles!
 * https://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/ is a good post that covers the motivation and basics of unit testing.
 * http://stackoverflow.com/questions/5357601/whats-the-difference-between-unit-tests-and-integration-tests is another good explanation between the different types of testing.
